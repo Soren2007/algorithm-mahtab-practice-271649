@@ -41,8 +41,6 @@ In the only output line, print an integer equal to the final number Mahtab has t
 9
 ```
 
-I hope this helps! Is there anything else you need assistance with?
-
 
 
 # مشق مهتاب
